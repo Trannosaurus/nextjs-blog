@@ -33,7 +33,7 @@ export default function Home({allPostsData}) {
           was too choatic and could be automized. I used the T3 tech stack 
           (nextjs, tRPC, tailwind, typescript, prisma) and managed user authentification
           and authorization and encryption. You can read more about that 
-          <Link href="/posts/pre-rendering.md-post">here!</Link>
+          <Link href="/posts/pre-rendering.mdpost"> here!</Link>
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
